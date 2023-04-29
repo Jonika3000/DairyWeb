@@ -1,0 +1,12 @@
+.Main {
+    background-color: #202020;
+}
+.Green {
+    background-color: #161a24;
+}
+
+h2,
+p,
+label {
+    color: white;
+}
